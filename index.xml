@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BensmaiaLab</title>
+    <link>http://www.bensmaialab.org/</link>
+    <description>Recent content on BensmaiaLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Jul 2020 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://www.bensmaialab.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact Us</title>
+      <link>http://www.bensmaialab.org/contact/</link>
+      <pubDate>Wed, 07 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.bensmaialab.org/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lab Projects</title>
+      <link>http://www.bensmaialab.org/projects/</link>
+      <pubDate>Wed, 07 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.bensmaialab.org/projects/</guid>
+      <description>Texture Perception Our sense of touch endows us with an exquisite sensitivity to surface texture. We can discern surfaces whose elements are tens of nanometers in size and hundreds of nanometers apart. The perception of texture not only allows us to make fine discriminations – like telling real silk from fake silk – but also guides object manipulation. For example, our perception of the surface properties of objects informs how much grip force we apply on them: more force is required for slippery objects.</description>
+    </item>
+    
+    <item>
+      <title>Lab Members</title>
+      <link>http://www.bensmaialab.org/team/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 -0500</pubDate>
+      
+      <guid>http://www.bensmaialab.org/team/</guid>
+      <description>Present and past members of the lab.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://www.bensmaialab.org/news/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 -0500</pubDate>
+      
+      <guid>http://www.bensmaialab.org/news/</guid>
+      <description>Article Publication Date     Man undergoes surgery, receives robotic arm NBC Morning News Nov 2019   Weird illusion makes you think fabric is moving faster than it is New Scientist Aug 2019   The instant, custom, connected future of medical devices New York Times Feb 2019   The magic touch: bringing sensory feedback to brain-controlled prosthetics Medical Devices Network Jan 2019   $3.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://www.bensmaialab.org/publications/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 -0500</pubDate>
+      
+      <guid>http://www.bensmaialab.org/publications/</guid>
+      <description>Selected Publications  Callier, T., Brantly, N., Caravelli, A., &amp;amp; Bensmaia, S.J. (in press). The frequency of cortical microstimulation shapes artificial touch, Proceedings of the National Academy of Sciences Goodman, J.M., Tabot, G.A., Lee, A.S., Suresh, A.K., Rajan, A.T., Hatsopoulos, N.G., &amp;amp; Bensmaia, S.J. (in press). Postural representations of the hand in primate sensorimotor cortex, Neuron (PubMed) George, J.A., Kluger, D.T., Davis, T.S., Wendelden, S.M., Okorokova, E.V., He, Q., Duncan, C.</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>http://www.bensmaialab.org/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.bensmaialab.org/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
