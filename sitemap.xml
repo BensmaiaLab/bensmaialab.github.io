@@ -3,45 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.bensmaialab.org/contact/</loc>
-    <lastmod>2016-09-07T00:00:00+00:00</lastmod>
+    <loc>/contact/</loc>
+    <lastmod>2020-07-29T14:13:13-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.bensmaialab.org/projects/</loc>
-    <lastmod>2016-09-07T00:00:00+00:00</lastmod>
+    <loc>/projects/</loc>
+    <lastmod>2020-07-29T14:13:13-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.bensmaialab.org/team/</loc>
-    <lastmod>2020-07-27T00:00:00-05:00</lastmod>
+    <loc>/team/</loc>
+    <lastmod>2020-07-29T14:13:13-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.bensmaialab.org/news/</loc>
-    <lastmod>2020-07-27T00:00:00-05:00</lastmod>
+    <loc>/news/</loc>
+    <lastmod>2020-07-29T14:13:13-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.bensmaialab.org/publications/</loc>
-    <lastmod>2020-07-27T00:00:00-05:00</lastmod>
+    <loc>/publications/</loc>
+    <lastmod>2020-07-29T14:13:13-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.bensmaialab.org/search/</loc>
+    <loc>/search/</loc>
+    <lastmod>2020-07-29T14:13:13-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.bensmaialab.org/</loc>
-    <lastmod>2020-07-27T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.bensmaialab.org/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.bensmaialab.org/tags/</loc>
+    <loc>/</loc>
+    <lastmod>2020-07-29T14:13:13-05:00</lastmod>
   </url>
   
 </urlset>
